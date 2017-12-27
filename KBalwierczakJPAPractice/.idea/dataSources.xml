@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="KBalwierczakJPAPractice@localhost" uuid="26273c83-264d-4a76-a454-8c3a642bcc4f">
+      <driver-ref>derby.remote</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.derby.jdbc.ClientDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby://localhost:1527/KBalwierczakJPAPractice</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="dd36e224-3da0-4db9-a7b7-ddf172dbc69b">
+      <driver-ref>derby.remote</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/../KBalwierczakJPAPractice/src/hibernate.cfg.xml</remarks>
+      <jdbc-driver>org.apache.derby.jdbc.ClientDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby://127.0.0.1:1527/KBalwierczakJPAPractice</jdbc-url>
+    </data-source>
+  </component>
+</project>
